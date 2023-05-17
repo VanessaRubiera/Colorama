@@ -45,3 +45,5 @@ git add .
 git commit -m "Mensaje"
 git push -u origin main
 ```
+9. Ejecutamos el programa y el resultado es el siguiente:
+![Imagen](mainpy-resultado.png)
