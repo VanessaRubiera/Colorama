@@ -38,9 +38,10 @@ pip freeze
 pip freeze > requerimientos.txt
 ```
 
-8. Ver status del archivos y añadir al stagging area todos los archivos modificados
+8. Subir los archivos al repositorio remoto.
 ```bash
 git status
 git add . 
+git commit -m "Mensaje"
+git push -u origin main
 ```
-9. 
